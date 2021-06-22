@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "name can be anything"
+git status
+git log
+git show file name
+git reset HEAD filename
